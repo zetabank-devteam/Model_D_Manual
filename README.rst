@@ -5,4 +5,4 @@ Explain the functions and purpose of Model D
 
 It explains how it works and what features it has.
 
-manual-model-d.readthedocs.io
+>> manual-model-d.readthedocs.io <<
