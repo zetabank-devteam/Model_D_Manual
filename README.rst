@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Manual Model D
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Explain the functions and purpose of Model D
 
-Read the tutorial here:
+It explains how it works and what features it has.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+manual-model-d.readthedocs.io
